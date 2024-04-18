@@ -9,7 +9,7 @@
 }
 
 body {
-    font-family: Verdana, Geneva, Tahoma, sans-serif
+    font-family: "Rubik Mono One", monospace;
 }
 
 header {
@@ -68,17 +68,17 @@ section.product {
     text-align: center;
 }
 
-#page-1 {
+#fabric {
     background-color: #ff0000;
     color: #fffd00;
 }
 
-#page-2 {
+#tommy {
     background-color: #008000;
     color: #fffd00;
 }
 
-#page-3 {
+#converse {
     background-color: #ffff00;
     color: #008000;
 }
